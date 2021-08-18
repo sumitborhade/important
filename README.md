@@ -12,7 +12,7 @@
 3. Scalability
 
 ### Capacity estimates
-**Key point :: Write:  500M urls/month**
+**Key point** :: __Write:  500M urls/month__
 
 
 
