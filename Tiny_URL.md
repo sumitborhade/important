@@ -25,7 +25,14 @@
 7. Cache memory: 172.8GB
 
 ## System API
-
+1. Generate Tiny Url: 
+   generateTinyUrl(apiKey, originalUrl, expiryDate)
+2. Delete Tiny Url:
+   deleteTinyUrl(apiKey, tinyUrl) 
+   
+## Database design
+1. NoSQL DB as data doesn't need join
+2. User table: 
 
 
 
