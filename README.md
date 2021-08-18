@@ -1,6 +1,4 @@
-# Notes System Design
-
-## 1. Tiny Url:
+## Tiny Url:
 ### Functional Requirements 
 1. System should be able to generate the tiny url for long url
 2. Able to redirect the user to long url when entered tiny url in browser
