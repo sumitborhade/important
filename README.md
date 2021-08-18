@@ -1,2 +1,2 @@
 # System Design Notes
-## 1. [Tiny URL](www.google.com)
+## 1. [Tiny URL](Tiny URL.md)
