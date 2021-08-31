@@ -1,8 +1,9 @@
+#OSI Model
 
-# Application layer: (Data)
+## Application layer: (Data)
 	Protocols: HTTP, HTTPS, SFT, FTP, SMTP, POP, DHCP, TELNET
 
-# Presentation layer: (Data)
+## Presentation layer: (Data)
 	Protocols: SSL
 	Functions:
 		1. Translation (From Text to Machine readable)
@@ -11,13 +12,13 @@
 			b. Lossless
 		3. Encryption/Decryption (Security reasons)
 
-# Session layer: (Data)
+## Session layer: (Data)
 	Functions:
 		1. Session management
 		2. Authentication
 		3. Authorization
 
-# Transport layer: (Segment)
+## Transport layer: (Segment)
 	Protocols: TCP, UDP
 	TCP: 
 		1. Connection oriented 
@@ -32,7 +33,7 @@
 		2. Flow control:
 		3. Error detection: Verify checksum
 
-# Network layer: (Packet)
+## Network layer: (Packet)
 	Protocol: IP
 	Functions:
 		1. Create packets from segments 
@@ -41,7 +42,7 @@
 		4. Path determination: 
 			Protocols: OSPF, BGP, IS-IS
 
-# Data layer: (Frame)
+## Data layer: (Frame)
 	Protocols: Ethernet, PPP ( Point 2 Point)
 	Functions:
 		1. Physical addressing: 
@@ -53,7 +54,7 @@
 			a. CSMA( Carries Sense Multiple Access)
 			b. Error detection: Using checksum
 
-# Physical layer: (Signals)
+## Physical layer: (Signals)
 	Functions:
 		1. Converts bits to Signals
 		2. Transmits using cable, fibre optics or air
