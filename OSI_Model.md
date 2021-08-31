@@ -2,7 +2,7 @@
   Thanks to [TechTerms Youtube](https://www.youtube.com/watch?v=vv4y_uOneC0)
 
 ## Application layer: (Data)
-	Protocols: HTTP, HTTPS, SFT, FTP, SMTP, POP, DHCP, TELNET
+	Protocols: HTTP, HTTPS, SFTP, FTP, SMTP, POP, DHCP, TELNET
 
 ## Presentation layer: (Data)
 	Protocols: SSL
