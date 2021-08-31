@@ -62,9 +62,9 @@
 
 ## Encapsulation
 
-Data: A, P, S
-Segment: T (Seq #, Port # & Data)
-Packet: N (Source & Destination IP, Segments)
-Frame: D, P (Source & Destination MAC address, Packet, Checksum)
+	Data: A, P, S
+	Segment: T (Seq #, Port # & Data)
+	Packet: N (Source & Destination IP, Segments)
+	Frame: D, P (Source & Destination MAC address, Packet, Checksum)
 
 ![](https://www.rfwireless-world.com/images/Segment-vs-Packet-vs-Frame.jpg) 
