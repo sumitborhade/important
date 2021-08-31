@@ -59,5 +59,6 @@
 	Functions:
 		1. Converts bits to Signals
 		2. Transmits using cable, fibre optics or air
-		
+
+## Encapsulation
 ![](https://www.rfwireless-world.com/images/Segment-vs-Packet-vs-Frame.jpg) 
