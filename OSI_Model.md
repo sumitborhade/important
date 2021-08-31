@@ -1,4 +1,5 @@
-# OSI Model
+# OSI Model 
+  Thanks to https://www.youtube.com/watch?v=vv4y_uOneC0
 
 ## Application layer: (Data)
 	Protocols: HTTP, HTTPS, SFT, FTP, SMTP, POP, DHCP, TELNET
